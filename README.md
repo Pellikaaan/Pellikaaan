@@ -49,4 +49,5 @@ Here are some of my favorite projects:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pellikaaan&layout=compact&theme=tokyonight)

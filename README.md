@@ -1,6 +1,6 @@
 # Tim-Pellikaan
 
-# 👋 Hi there! I'm Nazli
+# 👋 Hi there! I'm Tim
 
 I'm a passionate software developer with interests in AI, web technologies.
 

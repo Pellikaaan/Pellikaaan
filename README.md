@@ -1,4 +1,4 @@
-# Tim-Pellikaan
+# Pellikaaan
 
 # 👋 Hi there! I'm Tim
 

@@ -6,15 +6,16 @@ I'm a passionate software developer with interests in AI, web technologies.
 
 I'm currently focusing on:
 - Building mobile apps with Flutter  
-- Exploring NLP and machine learning  
+- Exploring NLP and machine learning
+- Creating my own Genetic Algorithms to optimize the Travelling Salesman Problem
 
 ---
 
 ## 🚀 Featured Projects
 
 Here are some of my favorite projects:
-
-- 🔢 [Testing-Cyber-Physical-Systems](https://github.com/Pellikaaan/Testing-Cyber-physical-Systems-Using-NLP-Models-thesis-work-) – A Testing framework using NLP-models to test cyber-physical systems
+- [Genetic Algorithm solving Travelling Salesman Problems](https://github.com/Pellikaaan/TravelingSalesmanProblem.git) – School work for an assignment.
+- [Testing-Cyber-Physical-Systems](https://github.com/Pellikaaan/Testing-Cyber-physical-Systems-Using-NLP-Models-thesis-work-) – A Testing framework using NLP-models to test cyber-physical systems
 
 
 ---

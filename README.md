@@ -5,7 +5,7 @@
 I'm a passionate software developer with interests in AI, web technologies.
 
 I'm currently focusing on:
-- Building mobile apps with Flutter  
+- Building Workflows using KNIME, The purpose of this project is to fetch and preprocess weather data from multiple SMHI weather stations and join it with SCB energy production data in order to visualize their relationships and perform clustering on monthly aggregated values.
 - Exploring NLP and machine learning
 - Creating my own Genetic Algorithms to optimize the Travelling Salesman Problem
 

@@ -16,7 +16,7 @@ I'm currently focusing on:
 Here are some of my favorite projects:
 - [Genetic Algorithm solving Travelling Salesman Problems](https://github.com/Pellikaaan/TravelingSalesmanProblem.git) – School work for an assignment.
 - [Testing-Cyber-Physical-Systems](https://github.com/Pellikaaan/Testing-Cyber-physical-Systems-Using-NLP-Models-thesis-work-) – A Testing framework using NLP-models to test cyber-physical systems
-
+- [Machine Learning Regression in KNIME](https://github.com/Pellikaaan/ml-knime-project) - A full KNIME workflow performing data preprocessing, feature engineering, and 10-fold cross-validated comparison of three regression models on the California Housing dataset.
 
 ---
 

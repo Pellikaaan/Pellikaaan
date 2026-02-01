@@ -24,6 +24,7 @@ Here are some of my favorite projects:
 
 ### Tech I use
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,flutter,dart,react,nodejs,sklearn,pytorch,tensorflow,docker,git,github,linux,postgres)](https://skillicons.dev)
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?logo=xaml&logoColor=white)

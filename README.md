@@ -42,10 +42,3 @@ Here are some of my favorite projects:
 
 - Email: Tim.Pelli@outlook.com  
 - [LinkedIn](https://www.linkedin.com/in/tim-pellikaan-6344a3189/)  
-
----
-
-## GitHub Stats
-![Metrics](https://raw.githubusercontent.com/<USER>/<USER>/main/github-metrics.svg)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pellikaaan)

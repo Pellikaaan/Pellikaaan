@@ -1,6 +1,6 @@
 # Pellikaaan
 
-# 👋 Hi there! I'm Tim
+#  Hi there! I'm Tim
 
 I'm a passionate software developer with interests in AI, web technologies.
 
@@ -11,7 +11,7 @@ I'm currently focusing on:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 Here are some of my favorite projects:
 - [Genetic Algorithm solving Travelling Salesman Problems](https://github.com/Pellikaaan/TravelingSalesmanProblem.git) – School work for an assignment.
@@ -20,7 +20,7 @@ Here are some of my favorite projects:
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Tech I use
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,flutter,dart,react,nodejs,sklearn,pytorch,tensorflow,docker,git,github,linux,postgres)](https://skillicons.dev)
@@ -38,10 +38,10 @@ Here are some of my favorite projects:
 
 ---
 
-## 📫 Contact
+##  Contact
 
-- 📧 Email: Tim.Pelli@outlook.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tim-pellikaan-6344a3189/)  
+- Email: Tim.Pelli@outlook.com  
+- [LinkedIn](https://www.linkedin.com/in/tim-pellikaan-6344a3189/)  
 
 ---
 
